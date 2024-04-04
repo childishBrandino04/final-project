@@ -6,7 +6,7 @@ Dots and Boxes: Strategy Edition.
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-"Dots and Boxes: Strategy Edition" is a modified version of the 'Dot and Boxes' game, with different tiered line connectors, that can create one or two lines. A complete box gets a connector upgrade, and 3 boxes grant the ability to a free box or a steal.
+"Dots and Boxes: Strategy Edition" is a modified version of the 'Dot and Boxes' game, with different tiered line connectors, that can create one or two lines. A complete box gets a connector upgrade, and 3 complete boxes grant the ability to a free box or a steal.
 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
